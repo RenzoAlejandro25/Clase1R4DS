@@ -34,4 +34,16 @@ Si piden información del correo y nombre de usuario, utilizar
 "git confing --global user.mail "correo""
 "git confing --global user.name "nombre""
 
+9no: Asignar la dirección a donde voy a subir mis archivos
+
+Luego ya puedo configurar mi repositorio remoto:
+  git remote add origin https://github.com/RenzoAlejandro25/Clase1R4DS.git
+  *origin es el nombre de mi repositorio
+
+10mo: Enviar mis archivos a la página que ya he difinido
+Para subir los datos/archivos de mi último commit local:
+git push -u origin master
+
+
+
 
