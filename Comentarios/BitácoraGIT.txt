@@ -1,0 +1,26 @@
+1er paso: Instalar GIT a partir de git-scm.com
+
+2do: abrir el programa GITbash
+
+Nota: tener en cuenta el hecho de tener un repositorio local y en algún momento optar por subir
+nuestro código a GIT
+
+3ro: Crear una cuenta GIT a través de github.com -> Sign Up. Se llena los campos
+  user name
+  Email add
+  Password
+  Verificamos que no somos un robot, hasta obtener el check
+  Create Account
+  
+4to: Crear un nuevo repositorio. Nota: No marcar la opción readme y dejar el repositorio público
+
+5to: Abrir GITBash y navegar hasta el directorio de trabajo (creado en Rstudio)
+
+Con ejecutar pwd estamos consultando cual es nuestro directorio actual
+Y con "cd" modifico mi directorio de trabajo actual 
+Con "ls" podemos listar el contenido del directorio de trabajo
+Con "cd .." nos movemos al directorio superior más cercano
+
+Nota: Para los nombres de los archivos y carpetas nunca utilizar los espacios
+
+6to: Inicializamos nuestro repositorio local en GITBash con "git init"
