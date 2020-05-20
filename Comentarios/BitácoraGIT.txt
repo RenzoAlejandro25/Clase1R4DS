@@ -23,7 +23,7 @@ Con "cd .." nos movemos al directorio superior más cercano
 
 Nota: Para los nombres de los archivos y carpetas nunca utilizar los espacios
 
-6to: Inicializar el repositorio local en GITBash con "git init"
+6to: Iniciar el repositorio local en GITBash con "git init"
 
 7to: Agregar los archivos del directorio de trabajo al repositorio (vacio) con "git add ."
 
