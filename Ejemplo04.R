@@ -69,3 +69,4 @@ vec7 <- rchisq(n = 12,df = 8) #Ahora tengo mi vector de 12 elementos
 help("seq")
 help("rep")
 # Estos dos últimos comandos quedan como tarea estudiarlos.
+# Tarea: apreder a usar la funciones rep y seq
